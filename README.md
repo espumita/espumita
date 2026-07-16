@@ -36,6 +36,7 @@ Now working at [AIDA](https://www.aidacanarias.com/en/welcome/).
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 5 Years of AI-Assisted Coding](https://espumita.org/2026/07/15/5-years-of-ai-assisted-coding/)
 - [💻 Hardware Series, Part III: Memory](https://espumita.org/2026/03/14/hardware-memory/)
 - [💻 Hardware Series, Part II: Motherboard](https://espumita.org/2026/02/01/hardware-motherboard/)
 - [💻 Hardware Series, Part I: CPU](https://espumita.org/2026/01/06/hardware-cpu/)
